@@ -10,6 +10,7 @@ body {
 .notification {
     visibility: hidden;
     min-width: 25px;
+    max-width: 30px;
     background-color: #f9f9f9;
     color: #333;
     text-align: center;
