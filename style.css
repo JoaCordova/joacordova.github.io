@@ -305,7 +305,10 @@ h1 {
     text-align: center; /* Centra el texto en pantallas pequeñas */
   }
 }
-
+  .github-link {
+    text-align: center;
+    margin-top: 20px;
+  }
 /* Estilo del pie de página */
 footer {
   background-color: #0C3A2D;
