@@ -305,10 +305,20 @@ h1 {
     text-align: center; /* Centra el texto en pantallas pequeñas */
   }
 }
-  .github-link {
+ .github-link {
     text-align: center;
     margin-top: 20px;
   }
+  
+  .github-link a {
+    text-decoration: none;
+  }
+  
+  .github-icon {
+    width: 40px; /* Tamaño del icono */
+    height: auto;
+  }
+  
 /* Estilo del pie de página */
 footer {
   background-color: #0C3A2D;
